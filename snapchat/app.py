@@ -1,7 +1,7 @@
 from geofence import Edge, Vert, GeoFence
 import datetime
 
-n = 40
+n = 40.001
 w = -73
 e = -74
 s = 39
