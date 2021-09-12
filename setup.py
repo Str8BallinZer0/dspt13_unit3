@@ -7,6 +7,6 @@ setup(name='dspt13derekl',
       author_email='me@ewencp.org',
       platforms=['any'],  # more specific e.g. 'win32' 'cygwin' 'osx'
       license='BSD',
-      url='http://github.com/ewencp/foo',
+      url='https://github.com/ewencp/foo',
       packages=find_packages(),
       )
